@@ -10,9 +10,9 @@ row — in plain English. The human analyst decides what to fix.
 
 ## Demo
 
-![IBM HR Dashboard](screenshots/dashboard_ibm.png)
-![UK Retail Dashboard](screenshots/dashboard_retail.png)
-![Column Detail](screenshots/column_detail.png)
+![IBM HR Dashboard](dashboard_ibm.png)
+![UK Retail Dashboard](dashboard_retail.png)
+![Column Detail](column_detail.png)
 
 ---
 
